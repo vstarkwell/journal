@@ -1,11 +1,11 @@
 - title: About
-  url: {{ site.baseurl }}/#about
+  url: v2/#about
 
 - title: Blog
-  url: {{ site.baseurl }}/#blog
+  url: v2/#blog
 
 - title: Photos
-  url: {{ site.baseurl }}/#photos
+  url: v2/#photos
 
 - title: Portfolio
-  url: {{ site.baseurl }}/#portfolio
+  url: v2/#portfolio
