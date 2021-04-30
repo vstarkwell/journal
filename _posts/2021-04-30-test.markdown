@@ -2,6 +2,6 @@
 layout: post
 title:  "Test"
 date:   2021-04-30 08:34:37 -0500
-categories: jekyll update
+categories:
 ---
 Just a test post...
